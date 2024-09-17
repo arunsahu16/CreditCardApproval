@@ -21,8 +21,8 @@ Transformed the categorical variables into dummy variables. In addition, the dat
 Performed classification analysis using Logistic Regression and used GridSearchCV to increase accuracy.
 
 ## Model Performance
-  * Logistic Regression: Accuracy = 85.99%
-  * Using GridSearchCV : Accuracy = 85.99%
+  * Logistic Regression: Accuracy = 90.99%
+  * Using GridSearchCV : Accuracy = 88.99%
   
 ## Conclusion
 On applying the logistic model, we have achieved the accuracy of 86% which is significantly high for predicting how likely a credit card request will get approved.
